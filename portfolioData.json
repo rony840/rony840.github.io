@@ -1,0 +1,238 @@
+  [ {
+      "id": 1,
+      "name": "Insignia Consultancy Solutions",
+      "logo": "/assets/images/brands/insignia.png",
+      "position": "Software Development Internship",
+      "description": "Brief description about Client A.",
+      "websiteLink": "https://insigniaconsultancy.com/",
+      "designs":[{
+        "id": 1,
+        "title": "Robust Speech to Text Pipeline",
+        "img": "/assets/images/certificates/Cloud.png",
+        "description": "Description for Design 1",
+        "instagramLink": "https://instagram.com/clientA/design1",
+        "driveLink": "https://drive.google.com/folder1",
+        "demoLink": "https://drive.google.com/folder1",
+        "githubLink": "https://drive.google.com/folder1"
+      },
+      {
+        "id": 2,
+        "title": "Sentence Analyzer",
+        "img": "/assets/images/certificates/Cloud.png",
+        "description": "Description for Design 1",
+        "instagramLink": "https://instagram.com/clientA/design1",
+        "driveLink": "https://drive.google.com/folder1"
+      }
+    ]
+    },
+    {
+      "id": 2,
+      "name": "New Jersey Institute of Technology",
+      "logo": "/assets/images/brands/njit.png",
+      "position": "Teaching Assistant",
+      "description": "Brief description about Client A.",
+      "designs":[{
+        "id": 1,
+        "title": "Teaching Assistant for CS 630",
+        "img": "./certificates/Cloud.png",
+        "description": "Description for Design 1",
+        "instagramLink": "https://instagram.com/clientA/design1",
+        "driveLink": "https://drive.google.com/folder1"
+      },
+      {
+        "id": 2,
+        "title": "Teaching Assistant for CS 656",
+        "img": "./certificates/Cloud.png",
+        "description": "Description for Design 1",
+        "instagramLink": "https://instagram.com/clientA/design1",
+        "driveLink": "https://drive.google.com/folder1"
+      }
+    ]
+    },
+    {
+      "id": 3,
+      "name": "Mentease",
+      "logo": "/assets/images/brands/mentease_media.jpg",
+      "position": "Video Content Specialist",
+      "description": "Brief description about Client A.",
+      "designs": [
+        {
+          "id": 1,
+          "title": "Design 1",
+          "img": "./certificates/Cloud.png",
+          "description": "Description for Design 1",
+          "instagramLink": "https://instagram.com/clientA/design1",
+          "driveLink": "https://drive.google.com/folder1"
+        },
+        {
+            "id": 2,
+            "title": "Design 1",
+            "img": "design1.jpg",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          },
+          {
+            "id": 3,
+            "title": "Design 1",
+            "img": "design1.jpg",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          },
+          {
+            "id": 4,
+            "title": "Design 1",
+            "img": "design1.jpg",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Webtraffic Agency",
+      "logo": "/assets/images/brands/webtrafficAgency.png",
+      "position": "Graphic Designer",
+      "description": "Brief description about Client A.",
+      "designs": [
+        {
+          "id": 1,
+          "title": "Honey",
+          "img": "/assets/images/designs/honey2.png",
+          "description": "Description for Design 1",
+          "instagramLink": "https://instagram.com/clientA/design1",
+          "driveLink": "https://drive.google.com/folder1"
+        },
+        {
+            "id": 2,
+            "title": "Shop on Phone Reel",
+            "img": "/assets/images/designs/shoponphone.png",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          },
+          {
+            "id": 3,
+            "title": "Design 1",
+            "img": "design1.jpg",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          },
+          {
+            "id": 4,
+            "title": "Design 1",
+            "img": "design1.jpg",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          },
+          {
+            "id": 5,
+            "title": "Design 1",
+            "img": "./certificates/Cloud.png",
+            "description": "Description for Design 1",
+            "instagramLink": "https://instagram.com/clientA/design1",
+            "driveLink": "https://drive.google.com/folder1"
+          },
+          {
+              "id": 6,
+              "title": "Design 1",
+              "img": "design1.jpg",
+              "description": "Description for Design 1",
+              "instagramLink": "https://instagram.com/clientA/design1",
+              "driveLink": "https://drive.google.com/folder1"
+            },
+            {
+              "id": 7,
+              "title": "Design 1",
+              "img": "design1.jpg",
+              "description": "Description for Design 1",
+              "instagramLink": "https://instagram.com/clientA/design1",
+              "driveLink": "https://drive.google.com/folder1"
+            },
+            {
+              "id": 8,
+              "title": "Design 1",
+              "img": "design1.jpg",
+              "description": "Description for Design 1",
+              "instagramLink": "https://instagram.com/clientA/design1",
+              "driveLink": "https://drive.google.com/folder1"
+            }
+      ]
+    },
+    {
+        "id": 5,
+        "name": "Giro Fintech - UAE",
+        "logo": "/assets/images/brands/girofintech.png",
+        "position": "Game Development Trainee",
+        "description": "Brief description about Client A.",
+        "designs": [
+          {
+            "id": 1,
+            "title": "Game Development using Construct 2",
+            "img": "design2.jpg",
+            "description": "Description for Design 2",
+            "driveLink": "https://drive.google.com/folder2"
+          },
+          {
+            "id": 1,
+            "title": "3D Car Model",
+            "img": "./assets/images/designs/carModel.png",
+            "description": "Description for Design 2",
+            "driveLink": "https://drive.google.com/folder2"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "TakenMind",
+        "position": "Data Analytics & Visualization",
+        "logo": "/assets/images/brands/takenmind.jpg",
+        "description": "Brief description about Client A.",
+        "designs": [
+          {
+            "id": 1,
+            "title": "Data Analytics & Visualization Intern",
+            "img": "./assets/images/lor/takenmindLOR.jpg",
+            "description": "Description for Design 2",
+            "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "TakenMind",
+        "position": "Data Analytics & Visualization",
+        "logo": "/assets/images/brands/takenmind.jpg",
+        "description": "Brief description about Client A.",
+        "designs": [
+          {
+            "id": 1,
+            "title": "Data Analytics & Visualization Intern",
+            "img": "./assets/images/lor/takenmindLOR.jpg",
+            "description": "Description for Design 2",
+            "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "TakenMind",
+        "position": "Data Analytics & Visualization",
+        "logo": "/assets/images/brands/takenmind.jpg",
+        "description": "Brief description about Client A.",
+        "designs": [
+          {
+            "id": 1,
+            "title": "Data Analytics & Visualization Intern",
+            "img": "./assets/images/lor/takenmindLOR.jpg",
+            "description": "Description for Design 2",
+            "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
+          }
+        ]
+      }
+  ]
+  

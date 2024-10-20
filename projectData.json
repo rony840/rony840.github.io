@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "title": "Chatbot WebApp",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "I built a chatbot web app for my internship at Insignia, starting with a BlenderBot prototype in Google Colab. I integrated text-to-speech and speech-to-text, then added a Gradio UI for a better user experience. Finally, I used the Groq API to implement the larger LLaMA 3 model, improving performance and efficiency.",
+      "githubLink": "https://github.com/yourusername/chatbot-webapp",
+      "demoLink": "https://yourdemo.com/chatbot",
+      "filesLink": "https://drive.google.com/yourfilelink"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "I developed a personal project using the React framework, creating a unique navigation bar in the shape of a cube. It took nearly a year to complete, driven by my desire to learn and showcase my React skills. Ultimately, I aimed to demonstrate to potential employers that I possess genuine expertise, rather than just listing skills on my resume."
+    },
+    {
+      "id": 3,
+      "title": "Home4Paws",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "This project was part of my Web Systems Development course (CS 683), where we built a pet adoption website. I collaborated with a team of four, primarily focusing on the frontend using React. We also used Django for backend development to manage database functions and enhance the website’s overall functionality."
+    },
+    {
+      "id": 4,
+      "title": "Wallet System",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "As part of my Data Management Systems Design course (CS 631), I worked with two teammates to create a basic wallet network web app. The project focused on implementing database concepts, from designing an ER diagram to writing queries for various operations. It combined features similar to Zelle and Splitwise."
+    },
+    {
+      "id": 5,
+      "title": "War Driving",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "As part of my Network Management and Security course (CS 696), I collaborated with a team of five to conduct a small-scale implementation of War Driving. We focused on scanning busy areas in New York City while ensuring that no sensitive or personal data was captured using wigle WiFi app."
+    },
+    {
+      "id": 6,
+      "title": "Movie Recommendation System",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "I collaborated with two friends on our final year project, developing a movie recommendation system similar to Netflix. We based our work on various research papers and documented our process in a report. Using Python, we implemented two different recommendation systems. Additionally, we published a research paper on this project at MulticonW and ICCN."
+    },
+    {
+      "id": 7,
+      "title": "Game Website",
+      "imageUrl": "/assets/images/certificates/Cloud.png",
+      "description": "During my undergraduate studies, I completed an internship as a junior game developer at Giro Fintech (UAE). I explored the Construct 2 game engine, primarily for developing HTML5 games. Using provided resources, I created five games with open-source assets and successfully deployed them on a simple website I called the 'Game Website.'",
+      "demoLink": "https://ronygames05.infinityfreeapp.com/"
+    }
+  ]
+  
