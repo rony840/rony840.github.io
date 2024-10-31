@@ -199,7 +199,7 @@
           {
             "id": 6,
             "title": "Realistic Bike Trials",
-            "img": "/assets/images/work/game4.png",
+            "img": "/assets/images/designs/game4.png",
             "description": "Description to be added soon...",
             "demoLink": "https://rony840.github.io/gameWebsite/games/MotorBike/index.html",
             "driveLink": "/workinprogress"
@@ -207,7 +207,7 @@
           {
             "id": 5,
             "title": "Tank Combat Multiplayer",
-            "img": "/assets/images/work/game2.png",
+            "img": "/assets/images/designs/game2.png",
             "description": "Description to be added soon...",
             "demoLink": "https://rony840.github.io/gameWebsite/games/TankCombat/index.html",
             "driveLink": "/workinprogress"
@@ -215,7 +215,7 @@
           {
             "id": 4,
             "title": "Monster Truck Trials",
-            "img": "/assets/images/work/game3.png",
+            "img": "/assets/images/designs/game3.png",
             "description": "Description to be added soon...",
             "demoLink": "https://rony840.github.io/gameWebsite/games/MonsterTruckTrials/index.html",
             "driveLink": "/workinprogress"
@@ -223,15 +223,15 @@
           {
             "id": 3,
             "title": "Protect the palace",
-            "img": "/assets/images/work/game1.png",
+            "img": "/assets/images/designs/game1.png",
             "description": "Description to be added soon...",
             "demoLink": "https://rony840.github.io/gameWebsite/games/ProtectThePalace/index.html",
             "driveLink": "/workinprogress"
           },
           {
-            "id": 1,
+            "id": 2,
             "title": "Strike the coin",
-            "img": "/assets/images/work/game5.png",
+            "img": "/assets/images/designs/game5.png",
             "description": "Description to be added soon...",
             "demoLink": "https://rony840.github.io/gameWebsite/games/StrikeTheCoin/index.html",
             "driveLink": "/workinprogress"
