@@ -1,236 +1,319 @@
   [ {
-      "id": 1,
+      "id": 8,
       "name": "Insignia Consultancy Solutions",
       "logo": "/assets/images/brands/insignia.png",
       "position": "Software Development Internship",
-      "description": "Brief description about Client A.",
+      "description": "Insignia specializes in technology solutions for digital transformation. As a software development intern on the data science team, I work closely with large language models and Python programming. My role involves creating integrated solutions using tools like Hugging Face, OpenAI, Groq API, and Assembly AI. Despite having no prior AI background, I've successfully contributed to three major projects in just two months, including a Sentence Analyzer and real-time speech-to-text pipeline.",
       "websiteLink": "https://insigniaconsultancy.com/",
       "designs":[{
-        "id": 1,
-        "title": "Robust Speech to Text Pipeline",
-        "img": "/assets/images/certificates/Cloud.png",
-        "description": "Description for Design 1",
-        "instagramLink": "https://instagram.com/clientA/design1",
-        "driveLink": "https://drive.google.com/folder1",
-        "demoLink": "https://drive.google.com/folder1",
-        "githubLink": "https://drive.google.com/folder1"
+        "id": 3,
+        "title": "Realtime Speech to Text Pipeline",
+        "img": "/assets/images/work/stt.png",
+        "description": "After delivering the previous project of STT pipeline, I worked on a realtime audio transcription system using Flask and various large language models (LLMs). The transcription process begins by capturing audio input, which is then processed to detect silence and manage recording efficiently. The system integrates multiple transcription services, applying robust error handling and retry mechanisms for API calls to ensure reliability. Additionally, it supports offline transcription using the Vosk framework. This project showcases my ability to integrate diverse technologies, implement complex workflows, and maintain a clean architecture while ensuring secure operations through logging and environment management."
       },
       {
         "id": 2,
-        "title": "Sentence Analyzer",
-        "img": "/assets/images/certificates/Cloud.png",
-        "description": "Description for Design 1",
-        "instagramLink": "https://instagram.com/clientA/design1",
+        "title": "Speech to Text Pipeline",
+        "img": "/assets/images/work/stt.png",
+        "description": "Here, I developed a speech-to-text pipeline using Flask that enables users to record their voice and convert it to text with various large language models (LLMs). The project includes over nine core files, with pipeline.py as the main entry point. It features main.py for routing, start.py and stop.py for recording control, and config.py for managing model configurations and API keys. The transcription is handled in process.py, while a .env file stores critical parameters securely. I implemented centralized logging in logger.py to ensure comprehensive session tracking. This project showcases my expertise in building complex systems from scratch, utilizing technologies like Flask and external libraries for audio processing, along with a clear architectural design illustrated in a high-level flowchart.",
         "driveLink": "https://drive.google.com/folder1"
+      },
+      {
+        "id": 1,
+        "title": "Sentence Analyzer",
+        "img": "/assets/images/work/sentence.png",
+        "description": "In this project, I utilized Python to extract key travel-related information from sentences, leveraging powerful libraries like SpaCy for natural language processing and FuzzyWuzzy for string matching. The code was designed to identify source and destination locations, dates, and times from diverse texts, using regex patterns to capture various date and time formats, including relative references like 'tomorrow.' Additionally, I expanded the sentence analyzer to extract event names, guest counts, durations, and more, making the tool robust and versatile for applications in travel, event planning, and beyond. With over 1,500 lines of code, I'm proud of how this tool streamlines the process of gathering and organizing critical information, enhancing efficiency for users in both domains."
       }
     ]
     },
     {
-      "id": 2,
+      "id": 7,
       "name": "New Jersey Institute of Technology",
       "logo": "/assets/images/brands/njit.png",
       "position": "Teaching Assistant",
-      "description": "Brief description about Client A.",
+      "description": "Description to be added soon...",
+      "websiteLink": "https://www.njit.edu/",
       "designs":[{
-        "id": 1,
+        "id": 2,
         "title": "Teaching Assistant for CS 630",
-        "img": "./certificates/Cloud.png",
-        "description": "Description for Design 1",
-        "instagramLink": "https://instagram.com/clientA/design1",
-        "driveLink": "https://drive.google.com/folder1"
+        "img": "/assets/images/wip.png",
+        "description": "Description to be added soon...",
+        "driveLink": "/workinprogress"
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "Teaching Assistant for CS 656",
-        "img": "./certificates/Cloud.png",
-        "description": "Description for Design 1",
-        "instagramLink": "https://instagram.com/clientA/design1",
-        "driveLink": "https://drive.google.com/folder1"
+        "img": "/assets/images/wip.png",
+        "description": "Description to be added soon...",
+        "driveLink": "/workinprogress"
       }
     ]
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "Mentease",
       "logo": "/assets/images/brands/mentease_media.jpg",
       "position": "Video Content Specialist",
-      "description": "Brief description about Client A.",
+      "description": "Description to be added soon...",
       "designs": [
         {
-          "id": 1,
-          "title": "Design 1",
-          "img": "./certificates/Cloud.png",
-          "description": "Description for Design 1",
-          "instagramLink": "https://instagram.com/clientA/design1",
-          "driveLink": "https://drive.google.com/folder1"
+          "id": 3,
+          "title": "Outro for Mission ICU",
+          "img": "/assets/images/designs/micu0.png",
+          "description": "Description to be added soon...",
+          "driveLink": "https://drive.google.com/drive/folders/1tQLSLdCJoZGIxKd4I-jXdJaipXiwh581?usp=sharing"
         },
         {
             "id": 2,
-            "title": "Design 1",
-            "img": "design1.jpg",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
+            "title": "Reel - Project becomes Mission",
+            "img": "/assets/images/designs/micu1.png",
+            "description": "Description to be added soon...",
+            "driveLink": "https://drive.google.com/file/d/1Yy-INLM49nBmKJrZgha0scBN5vbSYDDV/view?usp=sharing"
           },
           {
-            "id": 3,
-            "title": "Design 1",
-            "img": "design1.jpg",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
-          },
-          {
-            "id": 4,
-            "title": "Design 1",
-            "img": "design1.jpg",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
+            "id": 1,
+            "title": "Reel - Asia's first Healthcare Centre",
+            "img": "/assets/images/designs/micu2.png",
+            "description": "Description to be added soon...",
+            "driveLink": "https://drive.google.com/file/d/1jJ-ASWDbw30-8XdxvQ4X8rVITXHENvTk/view?usp=sharing"
           }
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Webtraffic Agency",
       "logo": "/assets/images/brands/webtrafficAgency.png",
       "position": "Graphic Designer",
-      "description": "Brief description about Client A.",
+      "description": "Description to be added soon...",
+      "websiteLink": "https://webtraffic.agency/",
       "designs": [
         {
-          "id": 1,
-          "title": "Honey",
-          "img": "/assets/images/designs/honey2.png",
-          "description": "Description for Design 1",
-          "instagramLink": "https://instagram.com/clientA/design1",
-          "driveLink": "https://drive.google.com/folder1"
-        },
-        {
-            "id": 2,
+            "id": 13,
             "title": "Shop on Phone Reel",
             "img": "/assets/images/designs/shoponphone.png",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/CckAQryjI47/",
+            "driveLink": "/workinprogress"
           },
           {
-            "id": 3,
-            "title": "Design 1",
-            "img": "design1.jpg",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
+            "id": 12,
+            "title": "Reel on Black Rice",
+            "img": "/assets/images/designs/blackrice.png",
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/CeBf8ttoy8B/",
+            "driveLink": "/workinprogress"
           },
           {
-            "id": 4,
-            "title": "Design 1",
-            "img": "design1.jpg",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
+            "id": 11,
+            "title": "Video on Mixed Millets",
+            "img": "/assets/images/designs/mixedmillet.png",
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/CbXeDYOgumY/",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 10,
+            "title": "Brand Mood Board",
+            "img": "/assets/images/designs/brandGuide.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 9,
+            "title": "Diffarc Product Post",
+            "img": "/assets/images/designs/diffarc.png",
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/CchtiGFoAJ4/",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 8,
+            "title": "Diff Floor top product",
+            "img": "/assets/images/designs/difftop.png",
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/CegWrBjos1e/",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 7,
+            "title": "Goeld Product Video",
+            "img": "/assets/images/designs/goeld.png",
+            "description": "Description to be added soon...",
+            "driveLink": "https://drive.google.com/file/d/1iE4GoSCTpX3SddI_CnwscPGIyp-132xs/view?usp=sharing"
+          },
+          {
+            "id": 6,
+            "title": "Video for product promo",
+            "img": "/assets/images/designs/summer.png",
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/CbzdgD8loXF/",
+            "driveLink": "https://drive.google.com/file/d/1d5V8IhXq9S7pztLJ_h6bzh8uatcIuKjH/view?usp=sharing"
           },
           {
             "id": 5,
-            "title": "Design 1",
-            "img": "./certificates/Cloud.png",
-            "description": "Description for Design 1",
-            "instagramLink": "https://instagram.com/clientA/design1",
-            "driveLink": "https://drive.google.com/folder1"
+            "title": "Motion Graphics",
+            "img": "/assets/images/designs/iiam.png",
+            "description": "Description to be added soon...",
+            "driveLink": "https://drive.google.com/file/d/1RdMhIHDL8Y7KKrnNQA9VTrV-NGbTXizH/view?usp=sharing"
           },
           {
-              "id": 6,
-              "title": "Design 1",
-              "img": "design1.jpg",
-              "description": "Description for Design 1",
-              "instagramLink": "https://instagram.com/clientA/design1",
-              "driveLink": "https://drive.google.com/folder1"
-            },
-            {
-              "id": 7,
-              "title": "Design 1",
-              "img": "design1.jpg",
-              "description": "Description for Design 1",
-              "instagramLink": "https://instagram.com/clientA/design1",
-              "driveLink": "https://drive.google.com/folder1"
-            },
-            {
-              "id": 8,
-              "title": "Design 1",
-              "img": "design1.jpg",
-              "description": "Description for Design 1",
-              "instagramLink": "https://instagram.com/clientA/design1",
-              "driveLink": "https://drive.google.com/folder1"
-            }
+            "id": 4,
+            "title": "Seamless GIF loop",
+            "img": "/assets/images/designs/evflo.png",
+            "description": "Description to be added soon...",
+            "driveLink": "https://drive.google.com/file/d/12Fl1IV_9XHJBPgsLN9bnfh_-genKIk3U/view?usp=sharing"
+          },
+          {
+            "id": 3,
+            "title": "Typography",
+            "img": "/assets/images/designs/webt.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 2,
+            "title": "Yoganiti Mood Board",
+            "img": "/assets/images/designs/yoga2.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 1,
+            "title": "Yoga Poses Reel",
+            "img": "/assets/images/designs/yogareel.png",
+            "description": "Description to be added soon...",
+            "instagramLink": "https://www.instagram.com/p/Cd5sEYBqvEi/",
+            "driveLink": "/workinprogress"
+          }
       ]
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Giro Fintech - UAE",
         "logo": "/assets/images/brands/girofintech.png",
         "position": "Game Development Trainee",
-        "description": "Brief description about Client A.",
+        "description": "Description to be added soon...",
+        "websiteLink": "https://girofintech.com/",
         "designs": [
+          
+          {
+            "id": 6,
+            "title": "Realistic Bike Trials",
+            "img": "/assets/images/work/game4.png",
+            "description": "Description to be added soon...",
+            "demoLink": "https://rony840.github.io/gameWebsite/games/MotorBike/index.html",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 5,
+            "title": "Tank Combat Multiplayer",
+            "img": "/assets/images/work/game2.png",
+            "description": "Description to be added soon...",
+            "demoLink": "https://rony840.github.io/gameWebsite/games/TankCombat/index.html",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 4,
+            "title": "Monster Truck Trials",
+            "img": "/assets/images/work/game3.png",
+            "description": "Description to be added soon...",
+            "demoLink": "https://rony840.github.io/gameWebsite/games/MonsterTruckTrials/index.html",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 3,
+            "title": "Protect the palace",
+            "img": "/assets/images/work/game1.png",
+            "description": "Description to be added soon...",
+            "demoLink": "https://rony840.github.io/gameWebsite/games/ProtectThePalace/index.html",
+            "driveLink": "/workinprogress"
+          },
           {
             "id": 1,
-            "title": "Game Development using Construct 2",
-            "img": "design2.jpg",
-            "description": "Description for Design 2",
-            "driveLink": "https://drive.google.com/folder2"
+            "title": "Strike the coin",
+            "img": "/assets/images/work/game5.png",
+            "description": "Description to be added soon...",
+            "demoLink": "https://rony840.github.io/gameWebsite/games/StrikeTheCoin/index.html",
+            "driveLink": "/workinprogress"
           },
           {
             "id": 1,
             "title": "3D Car Model",
-            "img": "./assets/images/designs/carModel.png",
-            "description": "Description for Design 2",
-            "driveLink": "https://drive.google.com/folder2"
+            "img": "/assets/images/designs/carModel.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
           }
         ]
       },
       {
-        "id": 6,
+        "id": 3,
         "name": "TakenMind",
         "position": "Data Analytics & Visualization",
         "logo": "/assets/images/brands/takenmind.jpg",
-        "description": "Brief description about Client A.",
+        "description": "Description to be added soon...",
         "designs": [
           {
             "id": 1,
             "title": "Data Analytics & Visualization Intern",
-            "img": "./assets/images/lor/takenmindLOR.jpg",
-            "description": "Description for Design 2",
+            "img": "/assets/images/lor/takenmindLOR.jpg",
+            "description": "Description to be added soon...",
             "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
           }
         ]
       },
       {
-        "id": 7,
-        "name": "TakenMind",
-        "position": "Data Analytics & Visualization",
-        "logo": "/assets/images/brands/takenmind.jpg",
-        "description": "Brief description about Client A.",
+        "id": 2,
+        "name": "TCET - TSDW",
+        "position": "Video Team Lead",
+        "logo": "/assets/images/brands/tsdw.png",
+        "description": "Description to be added soon...",
+        "websiteLink": "https://www.tcetmumbai.in/studentActivities.html",
         "designs": [
           {
             "id": 1,
-            "title": "Data Analytics & Visualization Intern",
-            "img": "./assets/images/lor/takenmindLOR.jpg",
-            "description": "Description for Design 2",
-            "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
+            "title": "WIP",
+            "img": "/assets/images/wip.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
           }
         ]
       },
       {
-        "id": 8,
-        "name": "TakenMind",
-        "position": "Data Analytics & Visualization",
-        "logo": "/assets/images/brands/takenmind.jpg",
-        "description": "Brief description about Client A.",
+        "id": 1,
+        "name": "TCET - CSI",
+        "position": "Creative Team Lead",
+        "logo": "/assets/images/brands/csi.png",
+        "description": "Description to be added soon...",
+        "websiteLink": "https://www.tcetmumbai.in/csiTCET.html",
         "designs": [
           {
             "id": 1,
-            "title": "Data Analytics & Visualization Intern",
-            "img": "./assets/images/lor/takenmindLOR.jpg",
-            "description": "Description for Design 2",
-            "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
+            "title": "WIP",
+            "img": "/assets/images/wip.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "logo": "/assets/images/misc.png",
+        "description": "Description to be added soon...",
+        "position":"Miscellaneous",
+        "designs": [
+          {
+            "id": 1,
+            "title": "WIP",
+            "img": "/assets/images/wip.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
+          },
+          {
+            "id": 1,
+            "title": "Self Sketch in PS",
+            "img": "/assets/images/designs/sketch.png",
+            "description": "Description to be added soon...",
+            "driveLink": "/workinprogress"
           }
         ]
       }
