@@ -239,7 +239,7 @@
           {
             "id": 1,
             "title": "3D Car Model",
-            "img": "/assets/images/designs/carModel.png",
+            "img": "/assets/images/designs/3dcar.PNG",
             "description": "Description to be added soon...",
             "driveLink": "/workinprogress"
           }
@@ -255,7 +255,7 @@
           {
             "id": 1,
             "title": "Data Analytics & Visualization Intern",
-            "img": "/assets/images/lor/takenmindLOR.jpg",
+            "img": "/assets/images/lor/lor.jpg",
             "description": "Description to be added soon...",
             "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
           }
