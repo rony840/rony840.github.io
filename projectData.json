@@ -24,7 +24,7 @@
     {
       "id": 5,
       "title": "Wallet Network",
-      "imageUrl": "/assets/images/projects/Walletnetwork.jpg",
+      "imageUrl": "/assets/images/projects/Walletnetwork.png",
       "description": "As part of my Data Management Systems Design course (CS 631), I worked with two teammates to create a basic wallet network web app. The project focused on implementing database concepts, from designing an ER diagram to writing queries for various operations. It combined features similar to Zelle and Splitwise.",
       "githubLink": "https://github.com/rony840/WalletNetwork",
       "filesLink": "https://drive.google.com/drive/folders/1TeELIYiK2-k2q3XeiyuA2r8To04MAcoU?usp=sharing"
@@ -46,7 +46,7 @@
     {
       "id": 2,
       "title": "Movie Recommendation System",
-      "imageUrl": "/assets/images/projects/movierecsys.jpg",
+      "imageUrl": "/assets/images/projects/movierecsys.png",
       "description": "I collaborated with two friends on our final year project, developing a movie recommendation system similar to Netflix. We based our work on various research papers and documented our process in a report. Using Python, we implemented two different recommendation systems. Additionally, we published a research paper on this project at MulticonW and ICCN.",
       "githubLink": "https://github.com/rony840/movrec2",
       "filesLink": "https://drive.google.com/file/d/19hTt4IuKYT-yibbwzbL_HGmTRc5VoNGL/view?usp=sharing"
