@@ -15,8 +15,8 @@
         "id": 2,
         "title": "Speech to Text Pipeline",
         "img": "/assets/images/work/stt.png",
-        "description": "Here, I developed a speech-to-text pipeline using Flask that enables users to record their voice and convert it to text with various large language models (LLMs). The project includes over nine core files, with pipeline.py as the main entry point. It features main.py for routing, start.py and stop.py for recording control, and config.py for managing model configurations and API keys. The transcription is handled in process.py, while a .env file stores critical parameters securely. I implemented centralized logging in logger.py to ensure comprehensive session tracking. This project showcases my expertise in building complex systems from scratch, utilizing technologies like Flask and external libraries for audio processing, along with a clear architectural design illustrated in a high-level flowchart.",
-        "driveLink": "rony840.github.io/workinprogress"
+        "description": "Here, I developed a speech-to-text pipeline using Flask that enables users to record their voice and convert it to text with various large language models (LLMs). The project includes over nine core files, with pipeline.py as the main entry point. It features main.py for routing, start.py and stop.py for recording control, and config.py for managing model configurations and API keys. The transcription is handled in process.py, while a .env file stores critical parameters securely. I implemented centralized logging in logger.py to ensure comprehensive session tracking. This project showcases my expertise in building complex systems from scratch, utilizing technologies like Flask and external libraries for audio processing, along with a clear architectural design illustrated in a high-level flowchart."
+        
       },
       {
         "id": 1,
@@ -37,15 +37,13 @@
         "id": 2,
         "title": "TA for CS630: Operating Systems Design",
         "img": "/assets/images/wip.png",
-        "description": "For CS 630 I had a class of more than 100 to handle with help of one more TA. Here I assisted the professor in assessing class participation, which was something newly introduced by me and my partner TA. In the assessing process we would keep track of each student who is answering professor's question, or actively asking doubts and being proactive in interacting with on going topics of studies. I also assisted in assessing midterm and final exams while also supervising them to ensure there was no misconduct or cheating taking place. To avoid the cheating we ",
-        "driveLink": "/workinprogress"
+        "description": "For CS 630 I had a class of more than 100 to handle with help of one more TA. Here I assisted the professor in assessing class participation, which was something newly introduced by me and my partner TA. In the assessing process we would keep track of each student who is answering professor's question, or actively asking doubts and being proactive in interacting with on going topics of studies. I also assisted in assessing midterm and final exams while also supervising them to ensure there was no misconduct or cheating taking place."
       },
       {
         "id": 1,
         "title": "TA for CS656: Internet and Higher Layer Protocols",
         "img": "/assets/images/wip.png",
-        "description": "As a Teaching Assistant for CS 656: Internet and Higher Layer Protocols at NJIT, I played a key role in both designing and delivering course materials. Before being officially hired, I worked with the professor to develop a set of evaluation methods, including three mini-projects and one major project. These projects were designed to help students gain practical experience with various layers of network protocols, utilizing tools such as NS2, Cisco Packet Tracer, and client-server programming in Python. For the final major project, students were tasked with transforming their third mini-project into a globally hosted chat server using ngrok or other third-party platforms. In addition to designing projects, my responsibilities included explaining project concepts, assisting students with lab work, and providing guidance on course material. I also supported grading for over 40 students, evaluating lab assignments, projects, and exams, ensuring timely and constructive feedback to help students improve their understanding of networking concepts. This experience allowed me to strengthen my communication and technical skills while contributing to a collaborative learning environment.",
-        "driveLink": "/workinprogress"
+        "description": "As a Teaching Assistant for CS 656: Internet and Higher Layer Protocols at NJIT, I played a key role in both designing and delivering course materials. Before being officially hired, I worked with the professor to develop a set of evaluation methods, including three mini-projects and one major project. These projects were designed to help students gain practical experience with various layers of network protocols, utilizing tools such as NS2, Cisco Packet Tracer, and client-server programming in Python. For the final major project, students were tasked with transforming their third mini-project into a globally hosted chat server using ngrok or other third-party platforms. In addition to designing projects, my responsibilities included explaining project concepts, assisting students with lab work, and providing guidance on course material. I also supported grading for over 40 students, evaluating lab assignments, projects, and exams, ensuring timely and constructive feedback to help students improve their understanding of networking concepts. This experience allowed me to strengthen my communication and technical skills while contributing to a collaborative learning environment."
       }
     ]
     },
@@ -92,47 +90,41 @@
             "title": "Shop on Phone Reel",
             "img": "/assets/images/designs/shoponphone.png",
             "description": "Description to be added soon...",
-            "instagramLink": "https://www.instagram.com/p/CckAQryjI47/",
-            "driveLink": "/workinprogress"
+            "instagramLink": "https://www.instagram.com/p/CckAQryjI47/"
           },
           {
             "id": 12,
             "title": "Reel on Black Rice",
             "img": "/assets/images/designs/blackrice.png",
             "description": "Description to be added soon...",
-            "instagramLink": "https://www.instagram.com/p/CeBf8ttoy8B/",
-            "driveLink": "/workinprogress"
+            "instagramLink": "https://www.instagram.com/p/CeBf8ttoy8B/"
           },
           {
             "id": 11,
             "title": "Video on Mixed Millets",
             "img": "/assets/images/designs/mixedmillet.png",
             "description": "Description to be added soon...",
-            "instagramLink": "https://www.instagram.com/p/CbXeDYOgumY/",
-            "driveLink": "/workinprogress"
+            "instagramLink": "https://www.instagram.com/p/CbXeDYOgumY/"
           },
           {
             "id": 10,
             "title": "Brand Mood Board",
             "img": "/assets/images/designs/brandGuide.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           },
           {
             "id": 9,
             "title": "Diffarc Product Post",
             "img": "/assets/images/designs/diffarc.png",
             "description": "Description to be added soon...",
-            "instagramLink": "https://www.instagram.com/p/CchtiGFoAJ4/",
-            "driveLink": "/workinprogress"
+            "instagramLink": "https://www.instagram.com/p/CchtiGFoAJ4/"
           },
           {
             "id": 8,
             "title": "Diff Floor top product",
             "img": "/assets/images/designs/difftop.png",
             "description": "Description to be added soon...",
-            "instagramLink": "https://www.instagram.com/p/CegWrBjos1e/",
-            "driveLink": "/workinprogress"
+            "instagramLink": "https://www.instagram.com/p/CegWrBjos1e/"
           },
           {
             "id": 7,
@@ -167,23 +159,20 @@
             "id": 3,
             "title": "Typography",
             "img": "/assets/images/designs/webt.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           },
           {
             "id": 2,
             "title": "Yoganiti Mood Board",
             "img": "/assets/images/designs/yoga2.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           },
           {
             "id": 1,
             "title": "Yoga Poses Reel",
             "img": "/assets/images/designs/yogareel.png",
             "description": "Description to be added soon...",
-            "instagramLink": "https://www.instagram.com/p/Cd5sEYBqvEi/",
-            "driveLink": "/workinprogress"
+            "instagramLink": "https://www.instagram.com/p/Cd5sEYBqvEi/"
           }
       ]
     },
@@ -201,47 +190,41 @@
             "title": "Realistic Bike Trials",
             "img": "/assets/images/designs/game4.png",
             "description": "Description to be added soon...",
-            "demoLink": "https://rony840.github.io/gameWebsite/games/MotorBike/index.html",
-            "driveLink": "/workinprogress"
+            "demoLink": "https://rony840.github.io/gameWebsite/games/MotorBike/index.html"
           },
           {
             "id": 5,
             "title": "Tank Combat Multiplayer",
             "img": "/assets/images/designs/game2.png",
             "description": "Description to be added soon...",
-            "demoLink": "https://rony840.github.io/gameWebsite/games/TankCombat/index.html",
-            "driveLink": "/workinprogress"
+            "demoLink": "https://rony840.github.io/gameWebsite/games/TankCombat/index.html"
           },
           {
             "id": 4,
             "title": "Monster Truck Trials",
             "img": "/assets/images/designs/game3.png",
             "description": "Description to be added soon...",
-            "demoLink": "https://rony840.github.io/gameWebsite/games/MonsterTruckTrials/index.html",
-            "driveLink": "/workinprogress"
+            "demoLink": "https://rony840.github.io/gameWebsite/games/MonsterTruckTrials/index.html"
           },
           {
             "id": 3,
             "title": "Protect the palace",
             "img": "/assets/images/designs/game1.png",
             "description": "Description to be added soon...",
-            "demoLink": "https://rony840.github.io/gameWebsite/games/ProtectThePalace/index.html",
-            "driveLink": "/workinprogress"
+            "demoLink": "https://rony840.github.io/gameWebsite/games/ProtectThePalace/index.html"
           },
           {
             "id": 2,
             "title": "Strike the coin",
             "img": "/assets/images/designs/game5.png",
             "description": "Description to be added soon...",
-            "demoLink": "https://rony840.github.io/gameWebsite/games/StrikeTheCoin/index.html",
-            "driveLink": "/workinprogress"
+            "demoLink": "https://rony840.github.io/gameWebsite/games/StrikeTheCoin/index.html"
           },
           {
             "id": 1,
             "title": "3D Car Model",
             "img": "/assets/images/designs/3dcar.PNG",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           }
         ]
       },
@@ -273,8 +256,7 @@
             "id": 1,
             "title": "WIP",
             "img": "/assets/images/wip.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           }
         ]
       },
@@ -290,8 +272,7 @@
             "id": 1,
             "title": "WIP",
             "img": "/assets/images/wip.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           }
         ]
       },
@@ -305,15 +286,13 @@
             "id": 1,
             "title": "WIP",
             "img": "/assets/images/wip.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           },
           {
             "id": 1,
             "title": "Self Sketch in PS",
             "img": "/assets/images/designs/sketch.png",
-            "description": "Description to be added soon...",
-            "driveLink": "/workinprogress"
+            "description": "Description to be added soon..."
           }
         ]
       }
