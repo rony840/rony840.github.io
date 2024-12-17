@@ -16,7 +16,7 @@
         "title": "Speech to Text Pipeline",
         "img": "/assets/images/work/stt.png",
         "description": "Here, I developed a speech-to-text pipeline using Flask that enables users to record their voice and convert it to text with various large language models (LLMs). The project includes over nine core files, with pipeline.py as the main entry point. It features main.py for routing, start.py and stop.py for recording control, and config.py for managing model configurations and API keys. The transcription is handled in process.py, while a .env file stores critical parameters securely. I implemented centralized logging in logger.py to ensure comprehensive session tracking. This project showcases my expertise in building complex systems from scratch, utilizing technologies like Flask and external libraries for audio processing, along with a clear architectural design illustrated in a high-level flowchart.",
-        "driveLink": "/workinprogress"
+        "driveLink": "rony840.github.io/workinprogress"
       },
       {
         "id": 1,
