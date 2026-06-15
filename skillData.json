@@ -1,0 +1,175 @@
+[{
+    "header": "Frameworks & Web Techs",
+    "skills": [
+      {
+        "name": "React",
+        "level": 90
+      },
+      {
+        "name": "React Native",
+        "level": 95
+      },
+      {
+        "name": "Django",
+        "level": 55
+      },
+      {
+        "name": "Flask",
+        "level": 50
+      },
+      {
+        "name": "REST APIs",
+        "level": 80
+      },
+      {
+        "name": "HTML",
+        "level": 90
+      },
+      {
+        "name": "CSS",
+        "level": 85
+      }
+    ]
+  },
+  {
+    "header": "Mobile Development",
+    "skills": [
+      {
+        "name": "Android Studio",
+        "level": 75
+      },
+      {
+        "name": "Xcode",
+        "level": 75
+      },
+      {
+        "name": "Firebase",
+        "level": 85
+      },
+      {
+        "name": "React Navigation",
+        "level": 95
+      },
+      {
+        "name": "Redux Saga",
+        "level": 90
+      },
+      {
+        "name": "Redux Toolkit",
+        "level": 80
+      }
+    ]
+  },
+  {
+    "header": "Cloud & DevOps",
+    "skills": [
+      {
+        "name": "AWS",
+        "level": 70
+      },
+      {
+        "name": "Azure",
+        "level": 65
+      },
+      {
+        "name": "CI/CD",
+        "level": 75
+      },
+      {
+        "name": "Git",
+        "level": 75
+      },
+      {
+        "name": "GitHub",
+        "level": 85
+      },
+      {
+        "name": "GitHub Actions",
+        "level": 90
+      }
+    ]
+  },
+  {
+    "header": "Design & Collaboration",
+    "skills": [
+      {
+        "name": "Agile",
+        "level": 85
+      },
+      {
+        "name": "Figma",
+        "level": 75
+      },
+      {
+        "name": "Illustrator",
+        "level": 75
+      },
+      {
+        "name": "Premiere Pro",
+        "level": 80
+      },
+      {
+        "name": "Photoshop",
+        "level": 70
+      },
+      {
+        "name": "CorelDraw",
+        "level": 85
+      },
+      {
+        "name": "Canva",
+        "level": 80
+      }
+    ]
+  },
+  {
+    "header": "Software Development",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": 90
+      },
+      {
+        "name": "TypeScript",
+        "level": 85
+      },
+      {
+        "name": "Node.JS",
+        "level": 65
+      },
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "MySQL",
+        "level": 70
+      },
+      {
+        "name": "MongoDB",
+        "level": 75
+      }
+    ]
+  },
+  {
+    "header": "Testing",
+    "skills": [
+      {
+        "name": "React Testing Library",
+        "level": 85
+      },
+      {
+        "name": "Jest",
+        "level": 80
+      },
+      {
+        "name": "Unit Testing",
+        "level": 80
+      },
+      {
+        "name": "Detox",
+        "level": 70
+      }
+    ]
+  }
+]

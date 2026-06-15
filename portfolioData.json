@@ -1,5 +1,6 @@
-  [ {
-      "id": 8,
+  [
+    {
+      "id": 6,
       "name": "Insignia Consultancy Solutions",
       "logo": "/assets/images/brands/insignia.png",
       "position": "Software Development Internship",
@@ -27,7 +28,7 @@
     ]
     },
     {
-      "id": 7,
+      "id": 5,
       "name": "New Jersey Institute of Technology",
       "logo": "/assets/images/brands/njit.png",
       "position": "Teaching Assistant",
@@ -48,7 +49,7 @@
     ]
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Mentease",
       "logo": "/assets/images/brands/mentease_media.jpg",
       "position": "Video Content Specialist",
@@ -78,7 +79,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "Webtraffic Agency",
       "logo": "/assets/images/brands/webtrafficAgency.png",
       "position": "Graphic Designer",
@@ -177,7 +178,7 @@
       ]
     },
     {
-        "id": 4,
+        "id": 2,
         "name": "Giro Fintech - UAE",
         "logo": "/assets/images/brands/girofintech.png",
         "position": "Game Development Trainee",
@@ -229,7 +230,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 1,
         "name": "TakenMind",
         "position": "Data Analytics & Visualization",
         "logo": "/assets/images/brands/takenmind.jpg",
@@ -241,58 +242,6 @@
             "img": "/assets/images/lor/lor.png",
             "description": "Description to be added soon...",
             "driveLink": "https://drive.google.com/file/d/16F_xhMaTHMHkqPdGstKhI1r3sYIY1E91/view?usp=sharing"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "TCET - TSDW",
-        "position": "Video Team Lead",
-        "logo": "/assets/images/brands/tsdw.png",
-        "description": "Description to be added soon...",
-        "websiteLink": "https://www.tcetmumbai.in/studentActivities.html",
-        "designs": [
-          {
-            "id": 1,
-            "title": "WIP",
-            "img": "/assets/images/wip.png",
-            "description": "Description to be added soon..."
-          }
-        ]
-      },
-      {
-        "id": 1,
-        "name": "TCET - CSI",
-        "position": "Creative Team Lead",
-        "logo": "/assets/images/brands/csi.png",
-        "description": "Description to be added soon...",
-        "websiteLink": "https://www.tcetmumbai.in/csiTCET.html",
-        "designs": [
-          {
-            "id": 1,
-            "title": "WIP",
-            "img": "/assets/images/wip.png",
-            "description": "Description to be added soon..."
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "logo": "/assets/images/misc.png",
-        "description": "Description to be added soon...",
-        "position":"Miscellaneous",
-        "designs": [
-          {
-            "id": 1,
-            "title": "WIP",
-            "img": "/assets/images/wip.png",
-            "description": "Description to be added soon..."
-          },
-          {
-            "id": 1,
-            "title": "Self Sketch in PS",
-            "img": "/assets/images/designs/sketch.png",
-            "description": "Description to be added soon..."
           }
         ]
       }
