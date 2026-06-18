@@ -1,12 +1,78 @@
   [
     {
+      "id": 8,
+      "name": "Toyota Financial Services",
+      "logo": "/assets/images/brands/toyota-financial-services.png",
+      "position": "React Native Team Lead",
+      "description": "As a React Native Developer supporting Toyota Financial Services, I contribute to a shared mobile platform powering multiple financial-services brands. My work includes developing customer-facing features, improving application performance, integrating analytics, and collaborating with product, UX, QA, and backend teams to deliver reliable mobile experiences. I also developed internal automation tooling that streamlined build and deployment workflows, reducing manual effort and improving release consistency across mobile applications.",
+      "websiteLink": "https://www.toyotafinancial.com/",
+      "projects":[{
+        "id": 4,
+        "title": "Collections & Loss Mitigation Features",
+        "img": "/assets/images/brands/toyota-financial-services.png",
+        "description": "Implemented production features supporting collections and loss-mitigation workflows within financial-services applications. Collaborated across cross-functional teams to translate business requirements into scalable mobile solutions while maintaining code quality and platform consistency."
+      },
+      {
+        "id": 3,
+        "title": "Responsive Mobile UI Improvements",
+        "img": "/assets/images/brands/toyota-financial-services.png",
+        "description": "Improved application responsiveness and consistency across different device sizes and operating systems. Addressed UI edge cases, layout inconsistencies, and platform-specific issues to deliver a more polished and reliable user experience."
+      },
+      {
+        "id": 2,
+        "title": "Payments Experience Enhancements",
+        "img": "/assets/images/brands/toyota-financial-services.png",
+        "description": "Contributed to customer-facing payment workflows by implementing new functionality, resolving production issues, and improving overall user experience. Worked closely with product owners, UX designers, QA engineers, and backend teams to ensure seamless feature delivery across multiple mobile applications."
+      },
+      {
+        "id": 1,
+        "title": "Build & Deployment Automation",
+        "img": "/assets/images/brands/toyota-financial-services.png",
+        "description": "Designed and implemented a Bash-based automation framework to streamline mobile release workflows. The solution automated version management, application packaging, artifact naming, Sauce Labs uploads, source-control updates, and release tracking. What previously required multiple manual steps could now be executed through a single command, improving deployment consistency and reducing release preparation effort."
+      }
+    ]
+    },
+    {
+      "id": 7,
+      "name": "Frontier Communications",
+      "logo": "/assets/images/brands/frontier-communications.png",
+      "position": "React Native Team Lead",
+      "description": "As a React Native Team Lead at Frontier Communications, I led a team of developers delivering mobile features and enhancements for customer-facing applications. My responsibilities included technical guidance, performance optimization, production support, stakeholder collaboration, and ensuring successful feature delivery across the software development lifecycle.",
+      "websiteLink": "https://frontier.com/",
+      "projects":[{
+        "id": 4,
+        "title": "Release Management & Quality Initiatives",
+        "img": "/assets/images/brands/frontier-communications.png",
+        "description": "Supported release planning, deployment activities, and quality initiatives for mobile applications. Worked with stakeholders to prioritize deliverables, coordinate releases, and improve overall application stability."
+      },
+      {
+        "id": 3,
+        "title": "Production Monitoring & Issue Resolution",
+        "img": "/assets/images/brands/frontier-communications.png",
+        "description": "Utilized Firebase, Logstash, and Quantum Metric to investigate production issues, analyze user behavior, monitor application health, and support troubleshooting efforts. Collaborated with QA and engineering teams to identify root causes and deliver fixes efficiently."
+      },
+      {
+        "id": 2,
+        "title": "CMS Migration Support",
+        "img": "/assets/images/brands/frontier-communications.png",
+        "description": "Contributed to content-management related enhancements and platform modernization efforts. Worked closely with cross-functional teams to ensure smooth integration, testing, and delivery of updated functionality while minimizing impact on existing user workflows."
+      },
+      {
+        "id": 1,
+        "title": "Application Performance Optimization",
+        "img": "/assets/images/brands/frontier-communications.png",
+        "description": "Improved application performance through lazy loading, optimized rendering strategies, and enhanced fallback handling. These improvements reduced unnecessary re-renders, improved screen responsiveness, and contributed to a smoother user experience."
+      }
+    ]
+    },
+    {
       "id": 6,
       "name": "Insignia Consultancy Solutions",
       "logo": "/assets/images/brands/insignia.png",
       "position": "Software Development Internship",
       "description": "Insignia specializes in technology solutions for digital transformation. As a software development intern on the data science team, I work closely with large language models and Python programming. My role involves creating integrated solutions using tools like Hugging Face, OpenAI, Groq API, and Assembly AI. Despite having no prior AI background, I've successfully contributed to three major projects in just two months, including a Sentence Analyzer and real-time speech-to-text pipeline.",
       "websiteLink": "https://insigniaconsultancy.com/",
-      "designs":[{
+      "projects":[{
         "id": 3,
         "title": "Realtime Speech to Text Pipeline",
         "img": "/assets/images/work/stt.png",
@@ -34,7 +100,7 @@
       "position": "Teaching Assistant",
       "description": "At New Jersey Institute of Technology (NJIT), a top research university in Newark, I worked part-time as a Teaching Assistant while pursuing my MS in Computer Science. I first assisted with CS 656: Internet and Higher Layer Protocols, then returned the following semester for CS 630: Operating Systems Design. In both roles, I supported students with coursework, labs, and projects, deepening my technical knowledge while contributing to NJIT’s research-driven academic environment.",
       "websiteLink": "https://www.njit.edu/",
-      "designs":[{
+      "projects":[{
         "id": 2,
         "title": "TA for CS630: Operating Systems Design",
         "img": "/assets/images/brands/njit.png",
@@ -53,8 +119,8 @@
       "name": "Mentease",
       "logo": "/assets/images/brands/mentease_media.jpg",
       "position": "Video Content Specialist",
-      "description": "Description to be added soon...",
-      "designs": [
+      "description": "Mentease is a digital media and content creation company focused on producing engaging content for multiple clients. As a Video Content Specialist, I created motion graphics, video edits, promotional content, and social media assets, collaborating with stakeholders to transform ideas into visually compelling stories for digital platforms.",
+      "projects": [
         {
           "id": 3,
           "title": "Outro for Mission ICU",
@@ -83,9 +149,9 @@
       "name": "Webtraffic Agency",
       "logo": "/assets/images/brands/webtrafficAgency.png",
       "position": "Graphic Designer",
-      "description": "Description to be added soon...",
+      "description": "Webtraffic Agency is a digital marketing and branding agency serving clients across multiple industries. As a Graphic Designer, I created social media creatives, motion graphics, marketing campaigns, brand assets, and promotional videos. I collaborated with content creators, marketers, and clients to deliver visually engaging designs that strengthened brand identity and improved audience engagement.",
       "websiteLink": "https://webtraffic.agency/",
-      "designs": [
+      "projects": [
         {
             "id": 13,
             "title": "Shop on Phone Reel",
@@ -182,9 +248,9 @@
         "name": "Giro Fintech - UAE",
         "logo": "/assets/images/brands/girofintech.png",
         "position": "Game Development Trainee",
-        "description": "Description to be added soon...",
+        "description": "Giro Fintech is a technology company focused on digital products and software solutions. As a Game Development Trainee, I worked on interactive web-based and mobile gaming projects, gaining hands-on experience in game mechanics, UI design, 3D assets, animation workflows, and gameplay implementation. This role helped strengthen my problem-solving skills and provided an early foundation in software development and user experience design.",
         "websiteLink": "https://girofintech.com/",
-        "designs": [
+        "projects": [
           
           {
             "id": 6,
@@ -234,8 +300,8 @@
         "name": "TakenMind",
         "position": "Data Analytics & Visualization",
         "logo": "/assets/images/brands/takenmind.jpg",
-        "description": "Description to be added soon...",
-        "designs": [
+        "description": "TakenMind is an analytics and technology-focused organization that provides opportunities for students and early-career professionals to gain practical experience in data-driven decision making. As a Data Analytics & Visualization Intern, I worked with datasets to identify trends, create visualizations, and communicate insights through reports and dashboards. This experience strengthened my analytical thinking, data interpretation, and presentation skills.",
+        "projects": [
           {
             "id": 1,
             "title": "Data Analytics & Visualization Intern",
